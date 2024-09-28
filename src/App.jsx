@@ -1,10 +1,10 @@
 import './App.css'
-import Effect from "./Effect"
+import Callback from "./Callback"
 
 function App() {
   return (
     <>
-      <Effect />
+      <Callback />
     </>
   )
 }
